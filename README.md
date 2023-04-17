@@ -15,4 +15,4 @@ PINECONE_API_ENV = ''
 ## [WTFAcademyChatBotChroma.ipynb](./WTFAcademyChatBotChroma.ipynb)
 
 该Python notebook演示了如何利用langchain的QA chain，结合Chroma来实现WTF Academy的Solidity课程的语义化搜索。
-使用时，在.env中设置有效的OpenAI API Key即可。
+使用时，在本地创建`.env`，并如`.env.example`所示，设置有效的OpenAI API Key即可。
